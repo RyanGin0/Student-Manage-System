@@ -4,5 +4,5 @@
 
 int main()
 {
-
+	cout << "hello wolrd";
 }
